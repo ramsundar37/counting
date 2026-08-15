@@ -5,7 +5,7 @@ A Python/Pygame implementation of **Braitenberg Vehicle 5 — Counting**.
 
 The simulation demonstrates a vehicle with light and heat sensors, threshold-based detection, and counting behavior.
 
-<img width="129" height="133" alt="image" src="https://github.com/user-attachments/assets/f41cbfa0-5fef-4445-b696-adec17bc32d7" />
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/7fe6555b-e2f0-47a8-bc8f-4046a22ebc71" />
 
 
 ## Features
